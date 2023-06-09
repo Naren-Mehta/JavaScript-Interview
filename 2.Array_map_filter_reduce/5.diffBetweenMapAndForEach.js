@@ -19,4 +19,4 @@ arr.forEach((val, index) => {
     arr[index] = val+2;
 });
 
-console.log(arr);
+console.log(arr); // forEach changed the original array
